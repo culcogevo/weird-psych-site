@@ -1,1 +1,2 @@
-theme: academic-jekyll-theme
+plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
