@@ -1,0 +1,4 @@
+---
+permalink: /people/
+title: "People"
+---

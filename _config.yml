@@ -1,11 +1,28 @@
 plugins: 
   - jekyll-remote-theme
   - jekyll-include-cache
+  
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-
+# Website info
 title: "WEIRD Psychology Project" 
-
 subtitle: "Religion, Family Structure and the Origins of Individual Freedom and Economic Prosperity"
+name: "Mona J. Xue"
 
-name: "Joeseph Henrich, Jonathan Schultz"
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink: /:categories/:title/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash

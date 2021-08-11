@@ -1,3 +1,7 @@
 main:
   - title: "About"
-    url: /about
+    url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Project Overview"
+    url: /project-overview/
