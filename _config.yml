@@ -10,4 +10,10 @@ subtitle: "Religion, Family Structure and the Origins of Individual Freedom and 
 
 name: "Joeseph Henrich, Jonathan Schultz"
 
-layout: splash
+
+defaults:
+  - scope:
+      path: ""
+      type: 
+    values:
+      layout: splash
