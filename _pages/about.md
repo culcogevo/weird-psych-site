@@ -1,4 +1,4 @@
 ---
-permalink: /about/
+permalink: about
 title: "About"
 ---
