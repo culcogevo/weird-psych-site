@@ -14,6 +14,6 @@ name: "Joeseph Henrich, Jonathan Schultz"
 defaults:
   - scope:
       path: ""
-      type: 
+      type: pages
     values:
       layout: splash
