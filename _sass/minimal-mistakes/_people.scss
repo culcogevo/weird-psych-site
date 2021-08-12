@@ -11,6 +11,10 @@
 .listitem{
   box-sizing: border-box;
   display: block;
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+    }
 
 }
 
