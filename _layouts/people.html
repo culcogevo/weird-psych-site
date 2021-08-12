@@ -12,6 +12,36 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      div.people {
+        display: table-cell;
+        vertical-align: top;
+        width: 36px;
+        height: 36px;
+
+        @include breakpoint($large) {
+          display: block;
+          width: auto;
+          height: auto;
+          opacity: 0.75;
+          -webkit-transition: opacity 0.2s ease-in-out;
+          transition: opacity 0.2s ease-in-out;
+          &:hover {
+            opacity: 1;
+          }
+        }
+
+        img {
+          max-width: 110px;
+          border-radius: 50%;
+
+          @include breakpoint($large) {
+            padding: 5px;
+            border: 1px solid $border-color;
+          }
+        }
+      }
+
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -19,12 +49,13 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-<!--    <div id="main" role="main">
-      {% include author-profile.html %}
-    </div> -->
+    <div class="people">
+      {<a href="https://culcogevo.github.io/weird-psych-site/joe-henrich/"><img src="images/joe-henrich.jpg"></a>
+      }
+    </div>
 
     <div class="initial-content">
-      {% include author-profile.html %} <!-- {{ content }} -->
+      {{ content }}
     </div>
 
     {% if site.search == true %}
