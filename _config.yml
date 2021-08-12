@@ -1,11 +1,11 @@
-plugins: 
+plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-  
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Website info
-title: "WEIRD Psychology Project" 
+title: "WEIRD Psychology Project"
 subtitle: "Religion, Family Structure and the Origins of Individual Freedom and Economic Prosperity"
 name: "Mona J. Xue"
 
@@ -26,3 +26,6 @@ defaults:
       type: pages
     values:
       layout: splash
+
+atom_feed:
+  hide: true

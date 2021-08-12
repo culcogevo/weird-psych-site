@@ -12,5 +12,4 @@ author:
       url: https://henrich.fas.harvard.edu/
     - label: "Lab Website"
       url: https://coevolution.fas.harvard.edu/
-site.atom_feed.hide: true
 ---
