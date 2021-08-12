@@ -12,38 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <style>
-      div.people {
-        display: table-cell;
-        vertical-align: top;
-        width: 36px;
-        height: 36px;
-
-        @include breakpoint($large) {
-          display: block;
-          width: auto;
-          height: auto;
-          opacity: 0.75;
-          -webkit-transition: opacity 0.2s ease-in-out;
-          transition: opacity 0.2s ease-in-out;
-          &:hover {
-            opacity: 1;
-          }
-        }
-
-        img {
-          max-width: 110px;
-          border-radius: 50%;
-
-          @include breakpoint($large) {
-            padding: 5px;
-            border: 1px solid $border-color;
-          }
-        }
-      }
-      </style>
-
+    <link rel="stylesheet" href="/_sass/minimal-mistakes/people.scss">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
