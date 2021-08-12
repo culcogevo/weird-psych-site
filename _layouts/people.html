@@ -19,12 +19,12 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-    <div id="main" role="main">
+<!--    <div id="main" role="main">
       {% include author-profile.html %}
-    </div>
+    </div> -->
 
     <div class="initial-content">
-      {{ content }}
+      {% include author-profile.html %} <!-- {{ content }} -->
     </div>
 
     {% if site.search == true %}
