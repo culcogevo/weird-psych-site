@@ -1,3 +1,19 @@
+.collection_list {
+  display: grid;
+  box-sizing: border-box;
+  justify-content: center;
+  grid-auto-columns: 1fr;
+  grid-template-rows: auto;
+  -webkit-box-pack: center;
+
+}
+
+.listitem{
+  box-sizing: border-box;
+  display: block;
+
+}
+
 .people {
   display: table-cell;
   vertical-align: top;
