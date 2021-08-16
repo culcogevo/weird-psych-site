@@ -8,6 +8,12 @@
     font-size: 30px;
     text-align: center;
     box-sizing: border-box;
+    opacity: 0;
+    transition: 0.5s ease;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 
   .grid-container > div img{
