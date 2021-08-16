@@ -2,9 +2,10 @@
 permalink: /test/
 title: "Test"
 author:
-  avatar: "/images/joe-henrich.jpg"
+  avatar: "asssets/images/joe-henrich.jpg"
 ---
 
 <h1>Hello</h1>
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
-<img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
+<img src="{{ author.avatar | relative_url }}">
+<img src="assets/images/joe-henrich.jpg">
