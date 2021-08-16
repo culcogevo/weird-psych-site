@@ -1,16 +1,17 @@
 ---
 permalink: /test/
 title: "Test"
-author:
-  avatar: "/assets/images/joe-henrich.jpg"
+people:
+  PI1: "/assets/images/joe-henrich.jpg"
+  PI2: "/assets/images/jonathan_schulz.jpg"
 layout: default
 ---
 
 <h1>People</h1>
 
 <div class="grid-container">
-  <div class="grid-item"><img src="{{ page.author.avatar | relative_url }}"></div>
-  <div class="grid-item">2</div>
+  <div class="grid-item"><img src="{{ page.people.PI1 | relative_url }}"></div>
+  <div class="grid-item"><img src="{{ page.people.PI2 | relative_url }}"></div>
   <div class="grid-item">3</div>
   <div class="grid-item">4</div>
   <div class="grid-item">5</div>

@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Joseph Henrich"
-  avatar: "/images/joe-henrich.jpg"
+  avatar: "assets/images/joe-henrich.jpg"
   bio:  Principle Investigator. Professor of Human Evolutionary Biology
   location: Harvard University
   links:
