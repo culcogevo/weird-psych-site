@@ -13,4 +13,10 @@
   .grid-container > div img{
     max-width: 200px;
     border-radius: 50%;
+    opacity: 1;
+    transition: .5s ease;
+
+    &:hover {
+      opacity: 0.3;
+    }
   }
