@@ -13,24 +13,6 @@
   <head>
       {% include head.html %}
       {% include head/custom.html %}
-      <style>
-        .grid-container {
-          display: grid;
-          grid-template-columns: auto auto auto;
-        }
-          .grid-item {
-            padding: 20px;
-            font-size: 30px;
-            text-align: center;
-            box-sizing: border-box;
-          }
-
-          .grid-container > div img{
-            max-width: 110px;
-            border-radius: 50%;
-          }
-
-        </style>
       </head>
 
       <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">

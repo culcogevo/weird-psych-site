@@ -1,0 +1,15 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .grid-container > div img{
+    max-width: 110px;
+    border-radius: 50%;
+  }
