@@ -1,52 +1,15 @@
-.collection_list {
+.grid-container {
   display: grid;
-  box-sizing: border-box;
-  justify-content: center;
-  grid-auto-columns: 1fr;
-  grid-template-rows: auto;
-  -webkit-box-pack: center;
-
+  grid-template-columns: auto auto auto;
 }
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+  }
 
-.listitem{
-  box-sizing: border-box;
-  display: block;
-  img {
-    max-width: 110px;
+  .grid-container > div img{
+    max-width: 400px;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
   }
-}
-
-.people {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
-
-    @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-    &:hover {
-      opacity: 1;
-    }
-  }
-
-  img {
-    max-width: 110px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
-}
