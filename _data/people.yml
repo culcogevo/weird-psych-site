@@ -1,6 +1,6 @@
 - name: Joseph Henrich
   photo: "/assets/images/joe-henrich.jpg"
-  profile: "https://culcogevo.github.io/weird-psych-site/joe-henrich/"
+  profile: "/pages/joe-henrich.md"
 
 - name: Jonathan Schulz
   photo: "/assets/images/jonathan_schulz.jpg"
