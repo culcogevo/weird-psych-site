@@ -12,7 +12,7 @@ layout: splash
   {% for person in site.data.people %}
   <div class="grid-item">
     <a href="{{ person.profile }}">
-      <img src={{ person.photo }}>
+      <img src="{{ person.photo | relative_url }}">
     <div>
       {{ person.name }}
     </div>
