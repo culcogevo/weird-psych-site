@@ -4,3 +4,6 @@
 
 - name: Jonathan Schulz
   photo: "/assets/images/jonathan_schulz.jpg"
+  
+- name: Cat
+  photo: "/assets/images/git_cat.png"
