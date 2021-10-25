@@ -16,11 +16,11 @@
       opacity: 0.3;
     }
     
-    &:link {
+    a:link & {
       text-decoration: none;
     }
     
-    &:visited {
+    a:visited & {
       color: black;
     }
   }
