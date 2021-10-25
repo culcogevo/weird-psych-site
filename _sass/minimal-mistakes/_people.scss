@@ -5,7 +5,7 @@
   grid-gap: 50px 50px;
 }
   .grid-item {
-    padding: 20px;
+    padding: 1.3vw;
     font-size: 2vw;
     text-align: center;
     box-sizing: border-box;
@@ -26,8 +26,8 @@
   .grid-container > div img{
     max-width: 100%;
     min-width: 100%;
-    padding: 5px;
+    padding: 0.5vw;
     border-radius: 50%;
-    border: 1px solid $border-color;
+    border: 0.06vw solid $border-color;
     object-fit: contain;
     }
