@@ -8,9 +8,11 @@
   
 - name: Sara Lowes
   photo: "/assets/images/sara-lowes.jpeg"
+  profile: "/sara-lowes/"
  
 - name: Nathan Nunn
   photo: "/assets/images/nathan-nunn.jpeg"
+  profile: "/nathan-nunn/
   
 - name: Duman Bahrami-Rad
   photo: "/assets/images/git_cat.png"
