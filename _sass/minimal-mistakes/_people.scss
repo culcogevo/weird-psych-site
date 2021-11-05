@@ -1,12 +1,11 @@
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
   grid-gap: 3.3vw 3.3vw;
 }
   .grid-item {
     padding: 1.3vw;
-    font-size: 1.7vw;
+    font-size: 1.5vw;
     text-align: center;
     box-sizing: border-box;
     opacity: 1;
