@@ -5,7 +5,7 @@ author_profile: true
 author:
   name: "Dr. Sara Lowes"
   avatar: "assets/images/sara-lowes.jpeg"
-  bio: Assistant Professor of Economics.
+  bio: Assistant Professor of Economics
   location: UC San Diego
   links:
     - label: "Personal Website"
