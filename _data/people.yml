@@ -6,6 +6,14 @@
   photo: "/assets/images/jonathan-schulz.jpg"
   profile: "/jonathan-schulz/"
   
+- name: Sara Lowes
+  photo: "/assets/images/sara-lowes.jpeg"
+  profile: "/sara-lowes/"
+ 
+- name: Nathan Nunn
+  photo: "/assets/images/nathan-nunn.jpeg"
+  profile: "/nathan-nunn/
+  
 - name: Duman Bahrami-Rad
   photo: "/assets/images/git_cat.png"
 
@@ -30,9 +38,6 @@
 - name: Mark Koyama
   photo: "/assets/images/git_cat.png"
 
-- name: Sara Lowes
-  photo: "/assets/images/git_cat.png"
-
 - name: Joel Mokyr
   photo: "/assets/images/git_cat.png"
 
@@ -40,9 +45,6 @@
   photo: "/assets/images/git_cat.png"
 
 - name: Graham Noblit
-  photo: "/assets/images/git_cat.png"
-
-- name: Nathan Nunn
   photo: "/assets/images/git_cat.png"
 
 - name: Edward Slingerland
