@@ -241,4 +241,12 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+  
+  
+  {% if author.fields %}
+    <div class="author__fields">
+        Field(s) of study: {{ author.fields | markdownify }}
+    </div>
+  {% endif %}
+  
 </div>
