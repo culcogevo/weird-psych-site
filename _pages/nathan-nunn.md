@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Nathan Nunn"
-  avatar: "assets/images/nathan-nunn.jpg"
+  avatar: "assets/images/nathan-nunn.jpeg"
   bio:  Frederic E. Abbe Professor of Economics
   location: Harvard University
   links:
