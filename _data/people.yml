@@ -14,6 +14,10 @@
   photo: "/assets/images/nathan-nunn.jpeg"
   profile: "/nathan-nunn/"
   
+- name: Max Winkler
+  photo: "/assets/images/max-winkler.jpeg"
+  profile: "/max-winkler/"
+  
 - name: Duman Bahrami-Rad
   photo: "/assets/images/git_cat.png"
 
@@ -54,9 +58,6 @@
   photo: "/assets/images/git_cat.png"
 
 - name: Till Weber
-  photo: "/assets/images/git_cat.png"
-
-- name: Max Winkler
   photo: "/assets/images/git_cat.png"
 
 - name: Bernhard Jussen
