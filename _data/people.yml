@@ -18,6 +18,10 @@
   photo: "/assets/images/max-winkler.jpeg"
   profile: "/max-winkler/"
   
+- name: Michael Muthukrishna
+  photo: "/assets/images/michael-muthukrishna.jpeg"  
+  profile: "/michael-muthukrishna/"
+
 - name: Duman Bahrami-Rad
   photo: "/assets/images/git_cat.png"
 
@@ -43,9 +47,6 @@
   photo: "/assets/images/git_cat.png"
 
 - name: Joel Mokyr
-  photo: "/assets/images/git_cat.png"
-
-- name: Michael Muthukrishna
   photo: "/assets/images/git_cat.png"
 
 - name: Graham Noblit
