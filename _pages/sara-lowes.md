@@ -10,6 +10,7 @@ author:
   links:
     - label: "Personal Website"
       url: https://www.saralowes.com/
+  fields: Economics
 ---
 
 Economics
