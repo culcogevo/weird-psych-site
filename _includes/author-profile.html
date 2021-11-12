@@ -245,7 +245,10 @@
   
   {% if author.fields %}
     <div class="author__fields">
-        {{ "Field(s) of study:" author.fields | markdownify }}
+        {{ "Field(s) of study:" | markdownify }}
+      <li style="list-style-type:none">
+        {{ author.fields }}
+      </li>
     </div>
   {% endif %}
   
