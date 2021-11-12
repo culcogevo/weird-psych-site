@@ -244,8 +244,9 @@
   
   
   {% if author.fields %}
-    <div class="author__fields">
-        {{ "Field(s) of study:" | markdownify }}
+    <li style="list-style-type:none">
+        "Field(s) of study:"
+  </li>
       <li style="list-style-type:none">
         {{ author.fields }}
       </li>
