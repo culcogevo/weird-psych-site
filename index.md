@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: simple
 ---
 
 ## Welcome to the Historical Psychology Project!
