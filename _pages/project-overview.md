@@ -4,7 +4,7 @@ title: "Project Overview"
 layout: simple
 ---
 
-##What Big Question will your project help answer?
+##What Big Question will your project help answer?##
 
 Q1. What features of people’s cultural psychology foster economic prosperity, rapid innovation and the effective functioning of impersonal (secular) institutions, such as democratic governments, modern corporations and free markets?
 
