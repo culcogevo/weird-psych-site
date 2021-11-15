@@ -10,8 +10,7 @@ author:
   links:
     - label: "Personal Website"
       url: https://scholar.harvard.edu/nunn/home
+  fields: Economics
 ---
-
-Economics
 
 Nathan Nunn is a development economist who is interested in understanding the causes and consequences of traditional religious practices in sub-Saharan Africa. Much of his research occurs in the Democratic Republic of the Congo.
