@@ -1,6 +1,7 @@
 ---
 permalink: /project-overview/
 title: "Project Overview"
+layout: simple
 ---
 
 ##What Big Question will your project help answer?
