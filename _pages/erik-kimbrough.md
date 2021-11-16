@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Erik O. Kimbrough"
-  avatar: "assets/images/erik-kimbrough.jpeg"
+  avatar: "assets/images/erik-kimbrough.png"
   bio: Associate Professor of Economics
   location: Chapman University
   links:
