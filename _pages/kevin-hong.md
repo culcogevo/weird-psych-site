@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Kevin Hong"
-  avatar: "assets/images/sara-lowes.jpeg"
+  avatar: "assets/images/kevin-hong.jpeg"
   bio: Ph.D. Candidate in Human Evolutionary Biology
   location: Harvard University
   fields: Evolutionary Anthropology, Cultural Evolution
