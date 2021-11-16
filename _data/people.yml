@@ -21,6 +21,18 @@
 - name: Michael Muthukrishna
   photo: "/assets/images/michael-muthukrishna.jpeg"  
   profile: "/michael-muthukrishna/"
+  
+- name: Mark Koyama
+  photo: "/assets/images/mark-koyama.jpeg"
+  profile: "/mark-koyama/"
+  
+- name: Kevin Hong
+  photo: "/assets/images/kevin-hong.jpeg"
+  profile: "/kevin-hong/"
+  
+- name: Erik Kimbrough
+  photo: "/assets/images/erik-kimbrough.png"
+  profile: "/erik-kimbrough/"
 
 - name: Duman Bahrami-Rad
   photo: "/assets/images/profile.png"
@@ -35,15 +47,6 @@
   photo: "/assets/images/profile.png"
 
 - name: Joseph Dexter
-  photo: "/assets/images/profile.png"
-
-- name: Kevin Hong
-  photo: "/assets/images/profile.png"
-
-- name: Erik Kimbrough
-  photo: "/assets/images/profile.png"
-
-- name: Mark Koyama
   photo: "/assets/images/profile.png"
 
 - name: Joel Mokyr
