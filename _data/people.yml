@@ -33,6 +33,14 @@
 - name: Erik O. Kimbrough
   photo: "/assets/images/erik-kimbrough.png"
   profile: "/erik-kimbrough/"
+  
+- name: Mohammad Atari
+  photo: "/assets/images/mohammad-atari.jpg"
+  profile: "/mohammad-atari/"
+  
+- name: Bernhard Jussen
+  photo: "/assets/images/bernhard-jussen.jpg"
+  profile: "/bernhard-jussen/"
 
 - name: Duman Bahrami-Rad
   photo: "/assets/images/profile.png"
@@ -62,13 +70,6 @@
   photo: "/assets/images/profile.png"
 
 - name: Till Weber
-  photo: "/assets/images/profile.png"
-
-- name: Bernhard Jussen
-  photo: "/assets/images/profile.png"
-  
-  
-- name: Mohammad Atari
   photo: "/assets/images/profile.png"
  
 - name: Slava Savitskiy
