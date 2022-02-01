@@ -41,20 +41,23 @@
 - name: Bernhard Jussen
   photo: "/assets/images/bernhard-jussen.jpg"
   profile: "/bernhard-jussen/"
-
+  
+- name: Augustin Bergeron
+  photo: "/assets/images/profile.png"
+  
+- name: Joseph Dexter
+  photo: "/assets/images/profile.png"
+  
+- name: Edward Slingerland
+  photo: "/assets/images/profile.png"
+  
+- name: Pramit Chaudhuri
+  photo: "/assets/images/profile.png" 
+  
 - name: Duman Bahrami-Rad
   photo: "/assets/images/profile.png"
 
-- name: Augustin Bergeron
-  photo: "/assets/images/profile.png"
-
-- name: Pramit Chaudhuri
-  photo: "/assets/images/profile.png"
-
 - name: Helen Davis
-  photo: "/assets/images/profile.png"
-
-- name: Joseph Dexter
   photo: "/assets/images/profile.png"
 
 - name: Joel Mokyr
