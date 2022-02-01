@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Edward Slingerland"
-  avatar: "assets/images/edward-slingerland.jpg"
+  avatar: "assets/images/edward-slingerland.jpeg"
   bio: Professor of Philosophy
   location: University of British Columbia
   links:
