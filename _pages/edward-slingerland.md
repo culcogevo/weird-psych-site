@@ -5,7 +5,7 @@ author_profile: true
 author:
   name: "Dr. Edward Slingerland"
   avatar: "assets/images/sara-lowes.jpeg"
-  bio: Assistant Professor of Philosophy
+  bio: Professor of Philosophy
   location: University of British Columbia
   links:
     - label: "Personal Website"
