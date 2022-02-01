@@ -43,17 +43,20 @@
   profile: "/bernhard-jussen/"
   
 - name: Augustin Bergeron
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/augustin-bergeron.jpg"
   profile: "/augustin-bergeron/"
   
 - name: Joseph Dexter
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/joseph-dexter.jpg"
+  profile: "/joseph-dexter/"
   
 - name: Edward Slingerland
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/edward-slingerland.jpg"
+  profile: "/edward-slingerland/"
   
 - name: Pramit Chaudhuri
-  photo: "/assets/images/profile.png" 
+  photo: "/assets/images/pramit-chaudhuri.jpg"
+  profile: "/pramit-chaudhuri/"
   
 - name: Duman Bahrami-Rad
   photo: "/assets/images/profile.png"
