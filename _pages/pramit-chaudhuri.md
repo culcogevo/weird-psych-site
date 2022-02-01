@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Prof. Pramit Chaudhuri"
-  avatar: "assets/images/sara-lowes.jpeg"
+  avatar: "assets/images/pramit-chaudhuri.jpg"
   bio: Associate Professor of Classics
   location: UT Austin
   links:
