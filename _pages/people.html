@@ -22,3 +22,24 @@ layout: splash
     </a>
   </div>
   {% endfor %}
+  
+</div>
+  
+<h1>People</h1> 
+
+<hr>
+
+<div class="grid-container">
+  
+  {% for person in site.data.people %}
+  <div class="grid-item">
+    <a href="{{ person.profile | relative_url }}">
+      <img src="{{ person.photo | relative_url }}">
+    <div>
+      {{ person.name }}
+    </div>
+    </a>
+  </div>
+  {% endfor %}
+  
+</div>
