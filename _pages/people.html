@@ -12,22 +12,21 @@ layout: splash
 
 <div class="grid-container">
   
-  {% for person in site.data.people %}
+  {% for person in site.data.pi %}
   <div class="grid-item">
     <a href="{{ person.profile | relative_url }}">
       <img src="{{ person.photo | relative_url }}">
     <div>
       {{ person.name }}
     </div>
+    <div>
+      {{ person.field }}
+    </div>
     </a>
   </div>
   {% endfor %}
   
 </div>
-  
-<h1>People</h1> 
-
-<hr>
 
 <div class="grid-container">
   
@@ -37,6 +36,35 @@ layout: splash
       <img src="{{ person.photo | relative_url }}">
     <div>
       {{ person.name }}
+    </div>
+    <div>
+      {{ person.field }}
+    </div>
+    </a>
+  </div>
+  {% endfor %}
+  
+</div>
+
+<p></p>
+
+<hr>
+
+<h1>Historical Experts Panel</h1> 
+
+<hr>
+
+<div class="grid-container">
+  
+  {% for person in site.data.experts %}
+  <div class="grid-item">
+    <a href="{{ person.profile | relative_url }}">
+      <img src="{{ person.photo | relative_url }}">
+    <div>
+      {{ person.name }}
+    </div>
+    <div>
+      {{ person.field }}
     </div>
     </a>
   </div>
