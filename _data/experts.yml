@@ -1,19 +1,24 @@
 - name: Bernhard Jussen
   photo: "/assets/images/bernhard-jussen.jpg"
   profile: "/bernhard-jussen/"
+  field: History
 
 - name: Mark Koyama
   photo: "/assets/images/mark-koyama.jpeg"
   profile: "/mark-koyama/"
+  field: Economic History
  
 - name: Joel Mokyr
   photo: "/assets/images/profile.png"  
+  field: Economic History
 
 - name: Walter Scheidel
   photo: "/assets/images/profile.png"
+  field: History
 
 - name: Edward Slingerland
   photo: "/assets/images/edward-slingerland.jpeg"
   profile: "/edward-slingerland/"
+  field: Religious Studies
 
 
