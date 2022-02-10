@@ -22,51 +22,65 @@
   field: Classics and Comparative Literature
   
 - name: Helen Davis
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/helen-davis.jpg"
+  field: Evolutionary Anthropology
 
 - name: Joseph Dexter
   photo: "/assets/images/joseph-dexter.jpg"
   profile: "/joseph-dexter/"
+  field: Data Science
   
 - name: Tim Geelhaar
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/time-geelhaar.jpg"
+  field: History, Digital Humanities
   
 - name: Erik O. Kimbrough
   photo: "/assets/images/erik-kimbrough.png"
   profile: "/erik-kimbrough/"
+  field: Economics
   
 - name: Bernhard Jussen
   photo: "/assets/images/bernhard-jussen.jpg"
   profile: "/bernhard-jussen/"
+  field: History
 
 - name: Sara Lowes
   photo: "/assets/images/sara-lowes.jpeg"
   profile: "/sara-lowes/"
+  field: Economics
   
 - name: Michael Muthukrishna
   photo: "/assets/images/michael-muthukrishna.jpeg"  
   profile: "/michael-muthukrishna/"
+  field: Psychological and Behavioral Sciences
 
 - name: Graham Noblit
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/graham-noblit.png"
+  field: Cultural Evolution
  
 - name: Nathan Nunn
   photo: "/assets/images/nathan-nunn.jpeg"
   profile: "/nathan-nunn/"
+  field: Economics
   
 - name: Slava Savitskiy
   photo: "/assets/images/profile.png"
+  field: Economics
   
 - name: Thomas Talhelm
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/thomas-telhelm.jpg"
+  field: Behavorial Science
   
 - name: Till Weber
   photo: "/assets/images/profile.png"  
+  field: Comparative Politics, Research Methodology
 
 - name: Max Winkler
   photo: "/assets/images/max-winkler.jpeg"
   profile: "/max-winkler/"
+  field: Economics
   
 - name: Kevin Hong
   photo: "/assets/images/kevin-hong.jpeg"
   profile: "/kevin-hong/"
+  field: Cultural Evolution
