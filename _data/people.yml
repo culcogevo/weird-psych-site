@@ -4,7 +4,7 @@
   field: Psychology
 
 - name: Duman Bahrami-Rad
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/duman-bahrami-rad.jpg"
   field: Development Economics
   
 - name: Jonathan Beauchamp
@@ -31,7 +31,7 @@
   field: Data Science
   
 - name: Tim Geelhaar
-  photo: "/assets/images/time-geelhaar.jpg"
+  photo: "/assets/images/tim-geelhaar.jpg"
   field: History, Digital Humanities
   
 - name: Erik O. Kimbrough
@@ -68,7 +68,7 @@
   field: Economics
   
 - name: Thomas Talhelm
-  photo: "/assets/images/thomas-telhelm.jpg"
+  photo: "/assets/images/thomas-talhelm.jpg"
   field: Behavorial Science
   
 - name: Till Weber
