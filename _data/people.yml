@@ -1,83 +1,72 @@
-- name: Joseph Henrich
-  photo: "/assets/images/joe-henrich.jpg"
-  profile: "/joe-henrich/"
+- name: Mohammad Atari
+  photo: "/assets/images/mohammad-atari.jpg"
+  profile: "/mohammad-atari/"
+  field: Psychology
 
-- name: Jonathan F. Schulz
-  photo: "/assets/images/jonathan-schulz.jpg"
-  profile: "/jonathan-schulz/"
+- name: Duman Bahrami-Rad
+  photo: "/assets/images/profile.png"
+  field: Development Economics
   
-- name: Sara Lowes
-  photo: "/assets/images/sara-lowes.jpeg"
-  profile: "/sara-lowes/"
- 
-- name: Nathan Nunn
-  photo: "/assets/images/nathan-nunn.jpeg"
-  profile: "/nathan-nunn/"
+- name: Jonathan Beauchamp
+  photo: "/assets/images/profile.png"
+  field: Genoeconomics
+
+- name: Augustin Bergeron
+  photo: "/assets/images/augustin-bergeron.jpg"
+  profile: "/augustin-bergeron/"
+  field: Development Economics
   
-- name: Max Winkler
-  photo: "/assets/images/max-winkler.jpeg"
-  profile: "/max-winkler/"
+- name: Pramit Chaudhuri
+  photo: "/assets/images/pramit-chaudhuri.jpg"
+  profile: "/pramit-chaudhuri/"
+  field: Classics and Comparative Literature
   
-- name: Michael Muthukrishna
-  photo: "/assets/images/michael-muthukrishna.jpeg"  
-  profile: "/michael-muthukrishna/"
+- name: Helen Davis
+  photo: "/assets/images/profile.png"
+
+- name: Joseph Dexter
+  photo: "/assets/images/joseph-dexter.jpg"
+  profile: "/joseph-dexter/"
   
-- name: Mark Koyama
-  photo: "/assets/images/mark-koyama.jpeg"
-  profile: "/mark-koyama/"
-  
-- name: Kevin Hong
-  photo: "/assets/images/kevin-hong.jpeg"
-  profile: "/kevin-hong/"
+- name: Tim Geelhaar
+  photo: "/assets/images/profile.png"
   
 - name: Erik O. Kimbrough
   photo: "/assets/images/erik-kimbrough.png"
   profile: "/erik-kimbrough/"
   
-- name: Mohammad Atari
-  photo: "/assets/images/mohammad-atari.jpg"
-  profile: "/mohammad-atari/"
-  
 - name: Bernhard Jussen
   photo: "/assets/images/bernhard-jussen.jpg"
   profile: "/bernhard-jussen/"
-  
-- name: Augustin Bergeron
-  photo: "/assets/images/augustin-bergeron.jpg"
-  profile: "/augustin-bergeron/"
-  
-- name: Joseph Dexter
-  photo: "/assets/images/joseph-dexter.jpg"
-  profile: "/joseph-dexter/"
-  
-- name: Edward Slingerland
-  photo: "/assets/images/edward-slingerland.jpg"
-  profile: "/edward-slingerland/"
-  
-- name: Pramit Chaudhuri
-  photo: "/assets/images/pramit-chaudhuri.jpg"
-  profile: "/pramit-chaudhuri/"
-  
-- name: Duman Bahrami-Rad
-  photo: "/assets/images/profile.png"
 
-- name: Helen Davis
-  photo: "/assets/images/profile.png"
-
-- name: Joel Mokyr
-  photo: "/assets/images/profile.png"
+- name: Sara Lowes
+  photo: "/assets/images/sara-lowes.jpeg"
+  profile: "/sara-lowes/"
+  
+- name: Michael Muthukrishna
+  photo: "/assets/images/michael-muthukrishna.jpeg"  
+  profile: "/michael-muthukrishna/"
 
 - name: Graham Noblit
   photo: "/assets/images/profile.png"
-
-- name: Edward Slingerland
-  photo: "/assets/images/augustin-bergeron.jpg"
-
-- name: Thomas Talhelm
-  photo: "/assets/images/profile.png"
-
-- name: Till Weber
-  photo: "/assets/images/profile.png"
  
+- name: Nathan Nunn
+  photo: "/assets/images/nathan-nunn.jpeg"
+  profile: "/nathan-nunn/"
+  
 - name: Slava Savitskiy
   photo: "/assets/images/profile.png"
+  
+- name: Thomas Talhelm
+  photo: "/assets/images/profile.png"
+  
+- name: Till Weber
+  photo: "/assets/images/profile.png"  
+
+- name: Max Winkler
+  photo: "/assets/images/max-winkler.jpeg"
+  profile: "/max-winkler/"
+  
+- name: Kevin Hong
+  photo: "/assets/images/kevin-hong.jpeg"
+  profile: "/kevin-hong/"

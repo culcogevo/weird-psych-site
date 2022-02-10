@@ -1,0 +1,19 @@
+- name: Bernhard Jussen
+  photo: "/assets/images/bernhard-jussen.jpg"
+  profile: "/bernhard-jussen/"
+
+- name: Mark Koyama
+  photo: "/assets/images/mark-koyama.jpeg"
+  profile: "/mark-koyama/"
+ 
+- name: Joel Mokyr
+  photo: "/assets/images/profile.png"  
+
+- name: Walter Scheidel
+  photo: "/assets/images/profile.png"
+
+- name: Edward Slingerland
+  photo: "/assets/images/edward-slingerland.jpeg"
+  profile: "/edward-slingerland/"
+
+

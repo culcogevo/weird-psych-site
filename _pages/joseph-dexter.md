@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Joseph Dexter"
-  avatar: "assets/images/joseph-dexter.jpeg"
+  avatar: "assets/images/joseph-dexter.jpg"
   bio: Data Science Fellow
   location: Harvard University
   links:
