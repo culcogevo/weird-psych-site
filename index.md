@@ -16,7 +16,7 @@ This project seeks to explore this hypothesis at three levels of analysis. First
 
 
 <p float="left">
-  <img src="{{ /assets/images/harvard.svg.png | relative_url }}" width="100" />
+  <img src="/assets/images/harvard.svg.png" width="100" />
   <img src="{{ /assets/images/gmu.png | relative_url }}" width="100" /> 
   <img src="{{ /assets/images/frankfurt.svg | relative_url }}" width="100" />
 </p>
