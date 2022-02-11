@@ -16,7 +16,7 @@ This project seeks to explore this hypothesis at three levels of analysis. First
 
 
 <p float="left">
-  <img src="/assets/images/harvard.svg.png" width="33%" padding="10em" />
-  <img src="/assets/images/gmu.png" width="33%" padding="10em" /> 
-  <img src="/assets/images/frankfurt.svg" width="33%" padding="10em" />
+  <img src="/assets/images/harvard.svg.png" width="30%" />
+  <img src="/assets/images/gmu.png" width="30%" /> 
+  <img src="/assets/images/frankfurt.svg" width="30%" />
 </p>
