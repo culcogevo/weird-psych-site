@@ -2,6 +2,8 @@
 layout: simple
 ---
 
+![](/assets/images/home_page_banner.jpg)
+
 ## Welcome to the Historical Psychology Project!
 
 What are the factors that promote economic prosperity, rapid innovation, and representative democracy, and why did these first develop in medieval Europe? These are the questions that the Historical Psychology Project seeks to answer. 
