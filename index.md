@@ -2,7 +2,6 @@
 layout: simple
 ---
 
-![](/assets/images/home_page_banner.jpg)
 
 ## Welcome to the Historical Psychology Project!
 
