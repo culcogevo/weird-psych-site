@@ -1,11 +1,13 @@
 - name: Tom Zhang
-  photo: "/assets/images/"
+  photo: "/assets/images/profile.png"
   profile: "/tom-zhang/"
   field: 
 
 - name: Claire Swadling
+  photo: "/assets/images/profile.png"
 
 - name: Chelsea Baker
+  photo: "/assets/images/profile.png"
 
 - name: Mona J. Xue
   photo: "/assets/images/mona-xue.jpeg"
