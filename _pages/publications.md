@@ -5,7 +5,7 @@ title: "Publications"
 layout: simple
 ---
 
-##Publications
+## Publications
 
 Atari, M., & Henrich, J. (2022). Historical Psychology. [Link](https://psyarxiv.com/m8b9g/). [PDF](/assets/files/atari-2022-historical-psychology.pdf).
 
