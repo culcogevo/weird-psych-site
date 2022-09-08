@@ -5,5 +5,7 @@ main:
     url: /people/
   - title: "Project Overview"
     url: /project-overview/
+  - title: "Publications"
+    url: /publications/
   - title: "Hist Psych at SPSP"
     url: https://spsp.org/events/annual-convention/preconferences/historical-psychology
