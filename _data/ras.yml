@@ -1,13 +1,14 @@
 - name: Tom Zhang
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/tom-zhang.jpeg"
   profile: "/tom-zhang/"
-  field: 
+  field: Data Science
 
 - name: Claire Swadling
   photo: "/assets/images/profile.png"
 
 - name: Chelsea Baker
-  photo: "/assets/images/profile.png"
+  photo: "/assets/images/chelsea-baker.jpg"
+  field: Economics and Computer Science
 
 - name: Mona J. Xue
   photo: "/assets/images/mona-xue.jpeg"
