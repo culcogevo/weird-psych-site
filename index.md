@@ -15,5 +15,5 @@ However, in medieval Europe, something strange happened. The church decided, arb
 
 This project seeks to explore this hypothesis at three levels of analysis. First, using global data, we’ll assess the relationship between the strength of kin networks and economic outcomes within countries around the world. Then, zooming in, we’ll use online surveys to collect individual-level data from participants in 6 countries on psychology, family, and political attitudes. Finally, we’ll deploy teams of anthropologists, psychologists and economists to field sites in Africa, China and Oceania to collect detailed data using custom-designed experiments and ethnographic interviews. Using historical records, we’ll trace the origins of liberty, individual rights and representative democracy back through the Middle Ages to the transformation of the family initiated by the Catholic Church. Moving forward in time from late antiquity and eventually through U.S. history, we’ll develop new techniques to extract psychological and kinship measures from textual corpora and then explore how psychology and kinship coevolve with representative governments, economic prosperity, voter enfranchisement, oppression and innovation. 
 
-![](assets/images/jtf-logo-black.svg)
+![](assets/images/smaller-templeton-logo.png)
 ![](assets/images/university-logos.png)
