@@ -5,92 +5,94 @@ title: "People"
 layout: default
 ---
 
-<div style="padding-top: 150px"></div>
+<div style="padding-top: 150px; padding: 5vw">
 
-<div>People</div>
+  <div>People</div>
 
-<div>PIs<div>
+  <div>PIs<div>
 
-<div class="grid-container">
-  
-  {% for person in site.data.pi %}
-  <div class="grid-item">
-    <a href="{{ person.profile | relative_url }}">
-      <img src="{{ person.photo | relative_url }}">
-    <div>
-      {{ person.name }}
+  <div class="grid-container">
+
+    {% for person in site.data.pi %}
+    <div class="grid-item">
+      <a href="{{ person.profile | relative_url }}">
+        <img src="{{ person.photo | relative_url }}">
+      <div>
+        {{ person.name }}
+      </div>
+      <div>
+        {{ person.field }}
+      </div>
+      </a>
     </div>
-    <div>
-      {{ person.field }}
-    </div>
-    </a>
+    {% endfor %}
+
   </div>
-  {% endfor %}
-  
-</div>
 
 
-<hr>
-  
-<div>Researchers</div>
+  <hr>
 
-<div class="grid-container">
-  
-  {% for person in site.data.people %}
-  <div class="grid-item">
-    <a href="{{ person.profile | relative_url }}">
-      <img src="{{ person.photo | relative_url }}">
-    <div>
-      {{ person.name }}
+  <div>Researchers</div>
+
+  <div class="grid-container">
+
+    {% for person in site.data.people %}
+    <div class="grid-item">
+      <a href="{{ person.profile | relative_url }}">
+        <img src="{{ person.photo | relative_url }}">
+      <div>
+        {{ person.name }}
+      </div>
+      <div>
+        {{ person.field }}
+      </div>
+      </a>
     </div>
-    <div>
-      {{ person.field }}
-    </div>
-    </a>
+    {% endfor %}
+
   </div>
-  {% endfor %}
-  
-</div>
-  
-<hr>
 
-<div>Historical Experts Panel</div> 
+  <hr>
 
-<div class="grid-container">
-  
-  {% for person in site.data.experts %}
-  <div class="grid-item">
-    <a href="{{ person.profile | relative_url }}">
-      <img src="{{ person.photo | relative_url }}">
-    <div>
-      {{ person.name }}
+  <div>Historical Experts Panel</div> 
+
+  <div class="grid-container">
+
+    {% for person in site.data.experts %}
+    <div class="grid-item">
+      <a href="{{ person.profile | relative_url }}">
+        <img src="{{ person.photo | relative_url }}">
+      <div>
+        {{ person.name }}
+      </div>
+      <div>
+        {{ person.field }}
+      </div>
+      </a>
     </div>
-    <div>
-      {{ person.field }}
-    </div>
-    </a>
+    {% endfor %}
+
   </div>
-  {% endfor %}
-  
-</div>
 
-<hr>
-<div>Research Assistants<div>
+  <hr>
+  <div>Research Assistants<div>
 
-<div class="grid-container">
-  
-  {% for person in site.data.ras %}
-  <div class="grid-item">
-    <a href="{{ person.profile | relative_url }}">
-      <img src="{{ person.photo | relative_url }}">
-    <div>
-      {{ person.name }}
+  <div class="grid-container">
+
+    {% for person in site.data.ras %}
+    <div class="grid-item">
+      <a href="{{ person.profile | relative_url }}">
+        <img src="{{ person.photo | relative_url }}">
+      <div>
+        {{ person.name }}
+      </div>
+      <div>
+        {{ person.field }}
+      </div>
+      </a>
     </div>
-    <div>
-      {{ person.field }}
-    </div>
-    </a>
+    {% endfor %}
+
   </div>
-  {% endfor %}
   
 </div>
