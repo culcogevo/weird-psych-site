@@ -18,7 +18,8 @@
 }
 
 .home-text-center-left {
-  position: absolute;
-  top: 50%;
-  left: 
+   position: absolute;
+   transform: translate(0%, -50%);
+   top: 50%;
+   padding: 5%;
 }
