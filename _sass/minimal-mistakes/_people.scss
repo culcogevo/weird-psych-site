@@ -32,3 +32,10 @@
     border: 0.06vw solid $border-color;
     object-fit: contain;
     }
+
+.people-title {
+    padding-left: 6.3vw;
+    padding-top: 5vw;
+    font-weight: bold;
+    font-size: min(8vw, 30px);
+}
