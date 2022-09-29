@@ -32,7 +32,19 @@
    background-color: rgba(255,255,255,90%);
 }
 
-.home-two-columns {
+@media (orientation:landscape) {
+  .home-two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  }
 }
+
+@media (orientation:portrait) {
+  .home-two-columns {
+  display: grid;
+  grid-template-columns: 1fr;
+  }
+}
+
+
+
