@@ -34,6 +34,7 @@
 
 @media screen and (orientation:landscape) {
   .home-two-columns {
+  position: relative;
   display: grid;
   grid-template-columns: 50% 50%;
   }
@@ -41,6 +42,7 @@
 
 @media screen and (orientation:portrait) {
   .home-two-columns {
+  position: relative;
   display: grid;
   grid-template-columns: 100%;
   }
