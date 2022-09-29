@@ -35,14 +35,14 @@
 @media screen and (orientation:landscape) {
   .home-two-columns {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 50% 50%;
   }
 }
 
 @media screen and (orientation:portrait) {
   .home-two-columns {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 100%;
   }
 }
 
