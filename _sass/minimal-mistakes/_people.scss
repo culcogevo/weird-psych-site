@@ -3,7 +3,8 @@
   grid-template-columns: repeat( auto-fill, minmax(min(50%, 200px), 1fr) );
  /* grid-template-columns: 1fr 1fr 1fr; */
  /* grid-gap: 3.3vw 3.3vw; */
-  padding: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
   .grid-item {
     padding: 1.3vw;
