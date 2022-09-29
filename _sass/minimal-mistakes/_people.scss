@@ -6,7 +6,7 @@
 }
   .grid-item {
     padding: 1.3vw;
-    font-size: 1.5vw;
+    font-size: min(4vw, 15px);
     text-align: center;
     box-sizing: border-box;
     opacity: 1;
