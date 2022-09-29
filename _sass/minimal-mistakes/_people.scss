@@ -43,6 +43,8 @@
 }
 
 .people-contents a {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   position: absolute; 
   top: 75%; 
   left: 50%; 
