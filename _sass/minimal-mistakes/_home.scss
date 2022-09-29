@@ -32,14 +32,14 @@
    background-color: rgba(255,255,255,90%);
 }
 
-@media (orientation:landscape) {
+@media and (orientation:landscape) {
   .home-two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
   }
 }
 
-@media (orientation:portrait) {
+@media and (orientation:portrait) {
   .home-two-columns {
   display: grid;
   grid-template-columns: 1fr;
