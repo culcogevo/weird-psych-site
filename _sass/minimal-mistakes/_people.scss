@@ -41,3 +41,12 @@
     font-weight: bold;
     font-size: min(8vw, 30px);
 }
+
+.people-contents a {
+  position: absolute; 
+  top: 75%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  font-size: min(8vw, 22px);
+  color: #6f777d;
+}
