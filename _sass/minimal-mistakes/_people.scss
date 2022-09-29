@@ -42,13 +42,17 @@
     font-size: min(8vw, 30px);
 }
 
-.people-contents a {
+.people-contents {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   position: absolute; 
   top: 75%; 
   left: 50%; 
   transform: translate(-50%, -50%); 
+}
+
+
+.people-contents a {
   font-size: min(8vw, 22px);
   color: #6f777d;
 }
