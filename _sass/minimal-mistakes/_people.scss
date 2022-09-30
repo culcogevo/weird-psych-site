@@ -43,7 +43,7 @@
 }
 
 .people-contents {
-  display: grid;
+  display: block;
   grid-template-columns: repeat(4, 1fr);
   position: absolute; 
   top: 75%; 
@@ -59,6 +59,8 @@
   color: #6f777d;
   text-decoration: none;
   position: relative;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
 }
 
 .people-contents a:before {
