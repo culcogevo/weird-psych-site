@@ -1,1 +1,10 @@
-
+- name: Mohammad Atari
+  photo: "/assets/images/mohammad-atari.jpg"
+  profile: "/mohammad-atari/"
+  field: Psychology
+  
+- name: Slava Savitskiy
+  photo: "/assets/images/profile.png"
+  field: Economics
+  
+  
