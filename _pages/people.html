@@ -9,7 +9,8 @@ layout: default
   <div style="position: absolute;  top: 48%; left: 50%; transform: translate(-50%, -50%); font-size: min(20vw, 80px); font-weight: bold;">People</div>
   <div class="people-contents">
     <a href="#pis">PIs</a>
-    <a href="#researchers">Researchers</a>
+    <a href="#collaborators">Collaborators</a>
+    <a href="#postdocs">Postdocs</a>
     <a href="#historyexperts">Historical Experts</a>
     <a href="#ras">RAs</a>
   </div>
@@ -41,7 +42,29 @@ layout: default
 
   <hr>
 
-  <div class="people-title" id="researchers">Researchers</div>
+  <div class="people-title" id="postdocs">Postdocs</div>
+
+  <div class="grid-container">
+
+    {% for person in site.data.postdocs %}
+    <div class="grid-item">
+      <a href="{{ postdocs.profile | relative_url }}">
+        <img src="{{ person.photo | relative_url }}">
+      <div style="font-weight: bold;">
+        {{ postdocs.name }}
+      </div>
+      <div style="font-style: italic;">
+        {{ postdocs.field }}
+      </div>
+      </a>
+    </div>
+    {% endfor %}
+
+  </div>
+
+  <hr>
+
+  <div class="people-title" id="collaborators">Collaborators</div>
 
   <div class="grid-container">
 
