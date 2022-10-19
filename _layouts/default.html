@@ -19,7 +19,8 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-    <div class="initial-content">
+    <!-- note the margin top, to not get covered up by nav bar -->
+    <div class="initial-content" style="margin-top: 4rem;">
       {{ content }}
     </div>
 

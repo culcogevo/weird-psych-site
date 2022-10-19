@@ -1,8 +1,3 @@
-- name: Mohammad Atari
-  photo: "/assets/images/mohammad-atari.jpg"
-  profile: "/mohammad-atari/"
-  field: Psychology
-
 - name: Duman Bahrami-Rad
   photo: "/assets/images/duman-bahrami-rad.jpg"
   field: Development Economics
@@ -59,10 +54,6 @@
   profile: "/nathan-nunn/"
   field: Economics
   
-- name: Slava Savitskiy
-  photo: "/assets/images/profile.png"
-  field: Economics
-  
 - name: Thomas Talhelm
   photo: "/assets/images/thomas-talhelm.jpg"
   field: Behavorial Science
@@ -71,7 +62,7 @@
   photo: "/assets/images/till-weber.jpg"  
   field: Comparative Politics, Research Methodology
 
-- name: Max Winkler
+- name: Max Posch
   photo: "/assets/images/max-winkler.jpeg"
   profile: "/max-winkler/"
   field: Economics

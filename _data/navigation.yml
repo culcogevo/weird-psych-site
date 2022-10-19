@@ -1,11 +1,16 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "People"
     url: /people/
   - title: "Project Overview"
     url: /project-overview/
   - title: "Publications"
     url: /publications/
-  - title: "Hist Psych at SPSP"
-    url: https://spsp.org/events/annual-convention/preconferences/historical-psychology
+  - title: "Media"
+    url: /media/
+  - title: "Links"
+    url: /links/
+  - title: "Resources"
+    url: /resources/
+    
