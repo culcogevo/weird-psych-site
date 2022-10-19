@@ -5,7 +5,7 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Website info
-# title: "Historical Psychology Project"
+title: "Historical Psychology Project"
 # subtitle: "Religion, Family Structure and the Origins of Individual Freedom and Economic Prosperity"
 # name: 
 
@@ -30,4 +30,4 @@ defaults:
 atom_feed:
   hide: true
 
-logo: "assets/images/historical_psychology_logo_v6.png"
+logo: "assets/images/historical_psychology_logo_v5.png"
