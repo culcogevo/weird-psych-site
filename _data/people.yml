@@ -79,10 +79,10 @@
   
 - name: Maria Kravtsova
   photo: "/assets/images/profile.png"
-  profile: "maria-kravtsova"
+  profile: "/maria-kravtsova/"
   field: Economic History
 
 - name: Patrick Burns
   photo: "assets/images/patrick-burns.jpg"
-  profile: "patrick-burns"
+  profile: "/patrick-burns/"
   field: Classics
