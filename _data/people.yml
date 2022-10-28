@@ -60,7 +60,7 @@
   
 - name: Till Weber
   photo: "/assets/images/till-weber.jpg"  
-  field: Economics
+  field: Experimental Economics
 
 - name: Max Posch
   photo: "/assets/images/max-winkler.jpeg"
@@ -71,3 +71,18 @@
   photo: "/assets/images/kevin-hong.jpeg"
   profile: "/kevin-hong/"
   field: Cultural Evolution
+  
+- name: Caroline Graf
+  photo: "/assets/images/profile.png"
+  profile: "/caroline-graf/"
+  field: Psychology
+  
+- name: Maria Kravtsova
+  photo: "/assets/images/profile.png"
+  profile: "maria-kravtsova"
+  field: Economic History
+
+- name: Patrick Burns
+  photo: "assets/images/patrick-burns.jpg"
+  profile: "patrick-burns"
+  field: Classics
