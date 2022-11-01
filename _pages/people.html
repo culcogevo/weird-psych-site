@@ -48,13 +48,13 @@ layout: default
 
     {% for person in site.data.postdocs %}
     <div class="grid-item">
-      <a href="{{ postdocs.profile | relative_url }}">
+      <a href="{{ person.profile | relative_url }}">
         <img src="{{ person.photo | relative_url }}">
       <div style="font-weight: bold;">
-        {{ postdocs.name }}
+        {{ person.name }}
       </div>
       <div style="font-style: italic;">
-        {{ postdocs.field }}
+        {{ person.field }}
       </div>
       </a>
     </div>
