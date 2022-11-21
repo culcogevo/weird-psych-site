@@ -13,6 +13,7 @@ layout: default
 <div class="people-title" id="pis">Videos</div>
 
   <div class="grid-container">
+    
     {% for media in site.data.videos %}
     <div class="grid-item">
        <iframe
@@ -25,7 +26,6 @@ layout: default
         allowfullscreen
       ></iframe>
      </div>
-    </div>
     {% endfor %}
 
   </div>
