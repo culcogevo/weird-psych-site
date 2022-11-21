@@ -5,8 +5,13 @@ main:
     url: /people/
   - title: "Project Overview"
     url: /project-overview/
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
+    children: 
+    - title: "Publications"
+      url: /publications/
+    - title: "Presentations"
+      url: /presentations/
   - title: "Media"
     url: /media/
   - title: "Links"
