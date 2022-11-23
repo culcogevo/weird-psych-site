@@ -18,4 +18,6 @@ main:
     url: /links/
   - title: "Resources"
     url: /resources/
+  - title: "Acknowledgments"
+    url: /acknowledgments/
     
