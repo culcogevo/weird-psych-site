@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Till Weber"
-  avatar: "assets/images/till-weber.jpg"
+  avatar: "assets/images/profile.png"
   bio: Lecturer of Economics
   location: Newcastle University Business School
   links:
