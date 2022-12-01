@@ -3,12 +3,14 @@
   profile: "/mohammad-atari/"
   field: Psychology
   
+- name: Jennifer Deveraux
+  photo: "/assets/images/jennifer-deveraux.jpg"
+  profile: "/jennifer-deveraux/"
+  field: Classics
+  
 - name: Slava Savitskiy
   photo: "/assets/images/slava-savitskiy.png"
   profile: "/slava-savitskiy/"
   field: Economics
   
-- name: Jennifer Deveraux
-  photo: "/assets/images/jennifer-deveraux.jpg"
-  profile: "/jennifer-deveraux/"
-  field: Classics
+
