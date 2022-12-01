@@ -11,6 +11,11 @@
   profile: "/augustin-bergeron/"
   field: Development Economics
   
+- name: Patrick Burns
+  photo: "assets/images/patrick-burns.jpeg"
+  profile: "/patrick-burns/"
+  field: Classics
+  
 - name: Pramit Chaudhuri
   photo: "/assets/images/pramit-chaudhuri.jpg"
   profile: "/pramit-chaudhuri/"
@@ -29,15 +34,30 @@
   photo: "/assets/images/tim-geelhaar.jpg"
   field: History, Digital Humanities
   
-- name: Erik O. Kimbrough
-  photo: "/assets/images/erik-kimbrough.png"
-  profile: "/erik-kimbrough/"
-  field: Economics
+- name: Caroline Graf
+  photo: "/assets/images/caroline-graf.png"
+  profile: "/caroline-graf/"
+  field: Psychology
+  
+- name: Kevin Hong
+  photo: "/assets/images/kevin-hong.jpeg"
+  profile: "/kevin-hong/"
+  field: Cultural Evolution
   
 - name: Bernhard Jussen
   photo: "/assets/images/bernhard-jussen.jpg"
   profile: "/bernhard-jussen/"
   field: History
+  
+- name: Erik O. Kimbrough
+  photo: "/assets/images/erik-kimbrough.png"
+  profile: "/erik-kimbrough/"
+  field: Economics
+  
+- name: Maria Kravtsova
+  photo: "/assets/images/profile.png"
+  profile: "/maria-kravtsova/"
+  field: Economic History
 
 - name: Sara Lowes
   photo: "/assets/images/sara-lowes.jpeg"
@@ -54,6 +74,11 @@
   profile: "/nathan-nunn/"
   field: Economics
   
+- name: Max Posch
+  photo: "/assets/images/max-winkler.jpeg"
+  profile: "/max-winkler/"
+  field: Economics
+  
 - name: Thomas Talhelm
   photo: "/assets/images/thomas-talhelm.jpg"
   field: Behavorial Science
@@ -62,28 +87,3 @@
   photo: "/assets/images/profile.png"  
   profile: "/till-weber/"
   field: Experimental Economics
-
-- name: Max Posch
-  photo: "/assets/images/max-winkler.jpeg"
-  profile: "/max-winkler/"
-  field: Economics
-  
-- name: Kevin Hong
-  photo: "/assets/images/kevin-hong.jpeg"
-  profile: "/kevin-hong/"
-  field: Cultural Evolution
-  
-- name: Caroline Graf
-  photo: "/assets/images/caroline-graf.png"
-  profile: "/caroline-graf/"
-  field: Psychology
-  
-- name: Maria Kravtsova
-  photo: "/assets/images/profile.png"
-  profile: "/maria-kravtsova/"
-  field: Economic History
-
-- name: Patrick Burns
-  photo: "assets/images/patrick-burns.jpeg"
-  profile: "/patrick-burns/"
-  field: Classics
