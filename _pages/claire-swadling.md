@@ -1,7 +1,7 @@
 ---
 permalink: /claire-swadling/
 layout: single
-author-profile: true
+author_profile: true
 author:
   name: Claire Swadling
   avatar: "assets/images/claire-swadling.png"
