@@ -5,6 +5,8 @@
 
 - name: Claire Swadling
   photo: "/assets/images/claire-swadling.png"
+  profile: "/claire-swadling/"
+  field: Physics, Economics, English
 
 - name: Mona J. Xue
   photo: "/assets/images/mona-xue.jpeg"
