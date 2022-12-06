@@ -35,6 +35,16 @@
 <!-- page-specific css -->
 {% if page.head_scripts %}
   {% for script in page.head_scripts %}
-    <link href="{{ script | relative_url }}" rel="stylesheet"></link>
+    <link href="{{ script | relative_url }}" rel="stylesheet">
   {% endfor %}
 {% endif %}
+
+<!-- make all links not blue -->
+<style>
+  a:hover {
+    color: black;
+  }
+  a, a:visited {
+    color: inherit;
+  }
+</style>

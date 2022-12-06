@@ -1,0 +1,4 @@
+-   There are some links/buttons that are blue on the various pages. Could you make them not blue?
+    - Updated `_includes/head.html` because the default layout uses this - at the bottom, there's a `<style>` tag that sets the color of all links to black when hovered; links will also remain the same colors even after visited.
+-   The heading for "project overview" has two lines right now. Could you make them one line?
+    -   Updated `_pages/project-overview.html`: it now loads a css script (`/assets/css/hero.css`) to render a background image; I've commented out the original `<div>`. The title "Project Overview" should appear only as one line of text for medium and large screen sizes; it only wraps into two lines for small screens.

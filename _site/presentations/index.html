@@ -83,6 +83,16 @@
 
 <!-- page-specific css -->
 
+
+<!-- make all links not blue -->
+<style>
+  a:hover {
+    color: black;
+  }
+  a, a:visited {
+    color: inherit;
+  }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -91,7 +101,7 @@
 
   </head>
 
-  <body class="layout--splash">
+  <body class="layout--default">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -111,6 +121,8 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
+          <a class="site-logo" href="/"><img src="/assets/images/historical_psychology_logo_v10.png" alt="Historical Psychology Project"></a>
+        
         <a class="site-title" href="/">
           Historical Psychology Project
           
@@ -122,13 +134,15 @@
             </li><li class="masthead__menu-item">
               <a href="/project-overview/">Project Overview</a>
             </li><li class="masthead__menu-item">
-              <a href="/publications/">Publications</a>
+              <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">
               <a href="/media/">Media</a>
             </li><li class="masthead__menu-item">
               <a href="/links/">Links</a>
             </li><li class="masthead__menu-item">
               <a href="/resources/">Resources</a>
+            </li><li class="masthead__menu-item">
+              <a href="/acknowledgments/">Acknowledgments</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -144,19 +158,16 @@
 
     <!-- note the margin top, to not get covered up by nav bar -->
     <div class="initial-content" style="margin-top: 4rem;">
-      
+      <div style="position: relative; width: 100%; height:30vh;">
+  <img src="/assets/images/home_page_image.jpg" class="home-image" style="opacity: 0.2">
+  <div style="position: absolute;  top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: min(20vw, 80px); font-weight: bold;">Presentations</div>
+</div>
 
-<div id="main" role="main">
-  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    
-    
-    
 
-    <section class="page__content" itemprop="text">
-      
-    </section>
-  </article>
+<div style="margin:5vw;padding-left:3vw;padding-right:3vw">
+  
+  <p>Coming soon!</p>
+  
 </div>
 
     </div>
@@ -178,7 +189,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2022 Historical Psychology Project. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 Historical Psychology Project. </div>
 
       </footer>
     </div>

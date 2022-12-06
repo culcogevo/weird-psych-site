@@ -86,6 +86,16 @@
 
 <!-- page-specific css -->
 
+
+<!-- make all links not blue -->
+<style>
+  a:hover {
+    color: black;
+  }
+  a, a:visited {
+    color: inherit;
+  }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -114,6 +124,8 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
+          <a class="site-logo" href="/"><img src="/assets/images/historical_psychology_logo_v10.png" alt="Historical Psychology Project"></a>
+        
         <a class="site-title" href="/">
           Historical Psychology Project
           
@@ -125,13 +137,15 @@
             </li><li class="masthead__menu-item">
               <a href="/project-overview/">Project Overview</a>
             </li><li class="masthead__menu-item">
-              <a href="/publications/">Publications</a>
+              <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">
               <a href="/media/">Media</a>
             </li><li class="masthead__menu-item">
               <a href="/links/">Links</a>
             </li><li class="masthead__menu-item">
               <a href="/resources/">Resources</a>
+            </li><li class="masthead__menu-item">
+              <a href="/acknowledgments/">Acknowledgments</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -330,7 +344,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2022 Historical Psychology Project. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 Historical Psychology Project. </div>
 
       </footer>
     </div>
