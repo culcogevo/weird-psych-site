@@ -5,3 +5,11 @@
 - url: "https://journals.sagepub.com/doi/10.1177/02685809211057670"
   image: "/assets/images/isa.svg"
   title: "Reviews: Culture and Citizenship | G. David Johnson"
+ 
+- url: "https://www.deutschlandfunk.de/psychologie-kultur-praegung-unterschiede-verwandtschaft-individuum-100.html"
+  image: "/assets/images/deutschlandfunk.pnd"
+  title: "Joseph Henrich Interview with Deutschlandfunk (German)"
+ 
+- url: "/assets/files/henrich_galore.pdf"
+  image: "/assets/images/Galore_Logo.svg"
+  title: "Joseph Henrich Interview with Galore (German)"
