@@ -59,8 +59,7 @@
   .grid-container-media > div img{
     max-width: 100%;
     min-width: 100%;
-    min-height: 67%;
-    max-height: 67%;
+    aspect-ratio: 3/2;
     padding: 0.5vw;
     border: 0.06vw solid $border-color;
     object-fit: contain;
