@@ -41,7 +41,7 @@ layout: default
   <div class="grid-container-media">
     
     {% for media in site.data.articles %}
-    <div class="grid-item">
+    <div class="grid-item" style="width:300px;height:200px">
     <a href="{{ media.url | relative_url }}">
       <img src="{{ media.image | relative_url }}">
       <div style="font-weight: bold;">
