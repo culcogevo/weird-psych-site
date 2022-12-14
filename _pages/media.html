@@ -9,6 +9,7 @@ layout: default
   <div class="people-contents">
     <a href="#videos">Videos</a>
     <a href="#articles">Articles</a>
+    <a href="#podcasts">Podcasts</a>
   </div>
 </div>
 
@@ -41,6 +42,25 @@ layout: default
   <div class="grid-container-media">
     
     {% for media in site.data.articles %}
+    <div class="grid-item">
+    <a href="{{ media.url | relative_url }}">
+      <img src="{{ media.image | relative_url }}" width="300px" height="200px" stle="object-fit:contain">
+      <div style="font-weight: bold;">
+        {{ media.title }}
+      </div>
+      </a>
+    </div>
+    {% endfor %}
+    
+    
+
+  </div>
+
+<div class="people-title" id="podcasts">Podcasts</div>
+
+  <div class="grid-container-media">
+    
+    {% for media in site.data.podcasts %}
     <div class="grid-item">
     <a href="{{ media.url | relative_url }}">
       <img src="{{ media.image | relative_url }}" width="300px" height="200px" stle="object-fit:contain">
