@@ -47,6 +47,24 @@
     object-fit: contain;
     }
 
+.grid-container-media {
+  display: grid;
+  grid-template-columns: repeat( auto-fill, minmax(min(50%, 200px), 1fr) );
+ /* grid-template-columns: 1fr 1fr 1fr; */
+ /* grid-gap: 3.3vw 3.3vw; */
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+  .grid-container-media > div img{
+    max-width: 100%;
+    min-width: 100%;
+    padding: 0.5vw;
+    border: 0.06vw solid $border-color;
+    object-fit: contain;
+    }
+
+
 .people-title {
     padding-left: 6.3vw;
     padding-top: 2vw;
