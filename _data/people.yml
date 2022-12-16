@@ -5,6 +5,10 @@
 - name: Jonathan Beauchamp
   photo: "/assets/images/jonathan-beauchamp.jpg"
   field: Genoeconomics
+  
+- name: Anke Becker
+  photo: "/assets/images/anke-becker.jpeg"
+  field: Economics
 
 - name: Augustin Bergeron
   photo: "/assets/images/augustin-bergeron.jpg"
