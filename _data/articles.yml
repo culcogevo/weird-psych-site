@@ -2,6 +2,10 @@
   image: "/assets/images/el-pais.webp"
   title: "The best antidote to white supremacy is more science | EL PAÍS"
   
+- url: "https://www.lavanguardia.com/magazine/protagonistas/20221124/8615006/joseph-henrich-occidentales-veces-adoptan-tradiciones-orientales-sentirse-especiales.html"
+  image: "assets/images/la-vanguardia.png"
+  title: "Somos los humanos más raros de la historia | La Vanguardia"
+  
 - url: "https://journals.sagepub.com/doi/10.1177/02685809211057670"
   image: "/assets/images/isa.svg"
   title: "Reviews: Culture and Citizenship | G. David Johnson"
