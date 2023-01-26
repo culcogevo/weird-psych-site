@@ -6,7 +6,8 @@ author:
   name: "Dr. Maria Kravtsova"
   avatar: "assets/images/maria-kravtsova.jpg"
   bio: Research Follow
-  location: Free University of Berlin (Berlin), Higher School of Economics (Moscow)
+  location: Free University of Berlin (Berlin)
+  location: Higher School of Economics (Moscow)
   fields: Economic history, development economics, social psychology
 ---
 
