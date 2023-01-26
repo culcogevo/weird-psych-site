@@ -6,14 +6,26 @@
   image: "assets/images/la-vanguardia.png"
   title: "Somos los humanos más raros de la historia | La Vanguardia"
   
+- url: "https://atlantico.fr/article/decryptage/nucleaires-souches-ou-communautaires-voila-l-impact-que-les-modeles-de-systeme-familiaux-ont-sur-le-developpement-economique-d-un-pays-jonathan-beauchamp"
+  title: "Nucléaires, souches ou communautaires | Rédaction Atlantico"
+  image: "assets/images/family_radio_living_room.jpg"
+  
+- url: "https://www.deutschlandfunk.de/psychologie-kultur-praegung-unterschiede-verwandtschaft-individuum-100.html"
+  image: "/assets/images/deutschlandfunk.png"
+  title: "Joseph Henrich Interview with Deutschlandfunk (German)"
+  
 - url: "https://journals.sagepub.com/doi/10.1177/02685809211057670"
   image: "/assets/images/isa.svg"
   title: "Reviews: Culture and Citizenship | G. David Johnson"
  
-- url: "https://www.deutschlandfunk.de/psychologie-kultur-praegung-unterschiede-verwandtschaft-individuum-100.html"
-  image: "/assets/images/deutschlandfunk.png"
-  title: "Joseph Henrich Interview with Deutschlandfunk (German)"
- 
 - url: "/assets/files/henrich_galore.pdf"
   image: "/assets/images/Galore_Logo.svg"
   title: "Joseph Henrich Interview with Galore (German)"
+  
+- url: "https://plus.lapresse.ca/screens/8c1e7670-8291-4a39-8a69-b8ac9591956a%7C_0.html"
+  image: "/assetes/images/LaPressePlus.svg"
+  title: "L'ÉGLISE CONTRE LA TRIBU ET LA CONSANGUINITÉ | La Presse+"
+  
+- url: "https://www.ledevoir.com/societe/science/566688/et-si-l-eglise-medievale-avait-dote-les-occidentaux-d-une-psyche-particuliere"
+  title: "Et si l’Église médiévale avait doté les Occidentaux d’une psyché particulière? | Le Devoir"
+  image: "/assets/images/beauchamp-le-devoir.webp"
