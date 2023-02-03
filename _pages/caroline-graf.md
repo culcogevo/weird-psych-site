@@ -3,7 +3,7 @@ permalink: /caroline-graf/
 layout: single
 author_profile: true
 author:
-  name: "caroline-graf"
+  name: "Caroline Graf"
   avatar: "assets/images/caroline-graf.png"
   bio: PhD Candidate, Faculty of Social Sciences, Sociology; PhD Candidate, Civil Society and Philantropy (CSPh)
   location: Vrije Universiteit Amsterdam
