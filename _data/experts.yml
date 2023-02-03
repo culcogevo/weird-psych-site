@@ -11,10 +11,12 @@
 - name: Joel Mokyr
   photo: "/assets/images/joel-mokyr.jpg"  
   field: Economic History
+  profile: "/joel-mokyr/"
 
 - name: Walter Scheidel
   photo: "/assets/images/walter-scheidel.jpg"
   field: History
+  profile: "/walter-scheidel/"
 
 - name: Edward Slingerland
   photo: "/assets/images/edward-slingerland.jpeg"
