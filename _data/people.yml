@@ -1,10 +1,12 @@
 - name: Duman Bahrami-Rad
   photo: "/assets/images/duman-bahrami-rad.jpg"
   field: Development Economics
+  profile: "/duman-bahrami-rad/"
   
 - name: Jonathan Beauchamp
   photo: "/assets/images/jonathan-beauchamp.jpg"
   field: Genoeconomics
+  profile: "/jonathan-beauchamp/"
   
 - name: Anke Becker
   photo: "/assets/images/anke-becker.jpeg"
@@ -29,6 +31,7 @@
 - name: Helen Davis
   photo: "/assets/images/helen-davis.jpg"
   field: Evolutionary Anthropology
+  profile: "/helen-davis/"
 
 - name: Joseph Dexter
   photo: "/assets/images/joseph-dexter.jpg"
@@ -38,6 +41,7 @@
 - name: Tim Geelhaar
   photo: "/assets/images/tim-geelhaar.jpg"
   field: History, Digital Humanities
+  profile: "/tim-geelhaar/"
   
 - name: Caroline Graf
   photo: "/assets/images/caroline-graf.png"
@@ -87,6 +91,7 @@
 - name: Thomas Talhelm
   photo: "/assets/images/thomas-talhelm.jpg"
   field: Behavorial Science
+  profile: "/thomas-talhelm/"
   
 - name: Till Weber
   photo: "/assets/images/profile.png"  
