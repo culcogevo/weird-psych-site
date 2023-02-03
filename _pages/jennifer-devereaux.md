@@ -7,5 +7,6 @@ author:
   avatar: "assets/images/jennifer-devereaux.jpg"
   bio: Postdoctoral Fellow
   location: Department of Human Evolutionary Biology, Harvard University
+  field: Classics
 ---
 More information coming soon!
