@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 author:
   name: "Dr. Max Posch"
-  avatar: "assets/images/max-winkler.jpeg"
+  avatar: "assets/images/max-posch.jpeg"
   bio:  Assistant Professor, Department of Economics
   location: University of Exeter
   links:
