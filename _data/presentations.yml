@@ -1,18 +1,17 @@
-presentations:
-  - date: 2022-05-12
-    place: "University of Essex"
-    title: "Kin-based institutions and economic development"
-    authors: "Jonathan Beauchamp"
-    file: "/assets/files/20220512a--Beauchamp_Essex_2022.05.12.pdf"
-  - date: 2022-04-30
-    place: "NBER Economics of Culture and Institutions Meeting"
-    title: "Kin-based institutions and economic development"
-    authors: "Jonathan Beauchamp"
-  - date: 2022-04-22
-    place: "ASREC"
-    title: "Kin-based institutions and economic development"
-    authors: "Jonathan Beauchamp"
-  - date: 2022-04-08
-    place: "ICES"
-    title: "Kin-based institutions and economic development"
-    authors: "Jonathan Beauchamp"
+- date: 2022-05-12
+  place: "University of Essex"
+  title: "Kin-based institutions and economic development"
+  authors: "Jonathan Beauchamp"
+  file: "/assets/files/20220512a--Beauchamp_Essex_2022.05.12.pdf"
+- date: 2022-04-30
+  place: "NBER Economics of Culture and Institutions Meeting"
+  title: "Kin-based institutions and economic development"
+  authors: "Jonathan Beauchamp"
+- date: 2022-04-22
+  place: "ASREC"
+  title: "Kin-based institutions and economic development"
+  authors: "Jonathan Beauchamp"
+- date: 2022-04-08
+  place: "ICES"
+  title: "Kin-based institutions and economic development"
+  authors: "Jonathan Beauchamp"
