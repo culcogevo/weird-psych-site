@@ -13,7 +13,7 @@ layout: default
   
 {% assign sorted_presentations = site.data.presentations | sort: 'date' | reverse %}
 {% for presentation in sorted_presentations %}
-  {% if date_variable.day != null %}
+  {% if presentation.date.day != null %}
     <div>{{ presentation.date | date: '%B %d, %Y' }}</div>
   {% else %}
     <div>{{ presentation.date | date: '%B, %Y' }}</div>
