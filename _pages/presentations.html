@@ -27,7 +27,7 @@ layout: default
   
 {% assign sorted_presentations = site.data.presentations | sort: 'date' | reverse %}
 {% for presentation in sorted_presentations %}
-  <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
+  <div><b>{{ presentation.date | date: '%B, %Y' }}</b></div>
   <div><em>{{ presentation.place }}</em></div>
   <div>Title: {{ presentation.title }}</div>
   <div>{{ presentation.authors }}</div>
