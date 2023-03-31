@@ -13,7 +13,11 @@ layout: default
   
 {% assign sorted_presentations = site.data.presentations | sort: 'date' %}
 {% for presentation in sorted_presentations %}
-  <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
+  {% if date_variable.day != null %}
+    <div>{{ presentation.date | date: '%B %d, %Y' }}</div>
+  {% else %}
+    <div>{{ presentation.date | date: '%B, %Y' }}</div>
+  {% endif %}
   <div><em>{{ presentation.place }}</em></div>
   <div>Title: {{ presentation.title }}</div>
   <div>{{ presentation.authors }}</div>
