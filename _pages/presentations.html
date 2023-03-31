@@ -16,8 +16,10 @@ layout: default
   <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
   <div><em>{{ presentation.place }}</em></div>
   <div>Title: {{ presentation.title }}</div>
-  <div>Presented by{{ presentation.authors }}</div>
-  <a href="{{ presentation.file | relative_url }}">PDF</a>
+  <div>{{ presentation.authors }}</div>
+  {% if presentation.file != nil %}
+    <a href="{{ presentation.file | relative_url }}">PDF</a>
+  {% endif %}
   <p></p>
 {% endfor %}
   
