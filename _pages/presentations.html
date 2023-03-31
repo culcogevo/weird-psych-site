@@ -13,11 +13,12 @@ layout: default
   
 {% assign sorted_presentations = site.data.presentations | sort: 'date' %}
 {% for presentation in sorted_presentations %}
-  <p><b>{{ presentation.date | date: '%B %d, %Y' }}</b></p>
-  <p><em>{{ presentation.place }}</em></p>
-  <p>Title: {{ presentation.title }}</p>
-  <p>{{ presentation.authors }}</p>
+  <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
+  <div><em>{{ presentation.place }}</em></div>
+  <div>Title: {{ presentation.title }}</div>
+  <div>Presented by{{ presentation.authors }}</div>
   <a href="{{ presentation.file | relative_url }}">PDF</a>
+  <p></p>
 {% endfor %}
   
   <p>Jonathan Beauchamp: University of Essex, May 12 2022. <a href="/assets/files/20220512a--Beauchamp_Essex_2022.05.12.pdf">PDF</a></p></p>
