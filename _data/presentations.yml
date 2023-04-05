@@ -1,20 +1,25 @@
-- date: 2022-05-12
+#make sure that all dates are on the 1st of the month
+
+- date: 2022-05-01
   place: "University of Essex"
   title: "Kin-based institutions and economic development"
   authors: "Jonathan Beauchamp"
+  last: "Beauchamp"
   file: "/assets/files/20220512a--Beauchamp_Essex_2022.05.12.pdf"
   
-- date: 2022-04-30
+- date: 2022-04-01
   place: "NBER Economics of Culture and Institutions Meeting"
   title: "Kin-based institutions and economic development"
+  last: "Beauchamp"
   authors: "Jonathan Beauchamp"
   
-- date: 2022-04-22
+- date: 2022-04-01
   place: "ASREC"
   title: "Kin-based institutions and economic development"
   authors: "Jonathan Beauchamp"
+  last: "Beauchamp"
   
-- date: 2022-04-08
+- date: 2022-04-01
   place: "ICES"
   title: "Kin-based institutions and economic development"
   authors: "Jonathan Beauchamp"
@@ -23,76 +28,91 @@
   place: "Society for Personality and Social Psychology, Atlanta"
   title: "Cognitive Artifacts & Historical Psychology"
   authors: "Jennifer Devereaux"
+  last: "Devereaux"
 
 - date: 2022-10-01
   place: "Department of Classical Studies and Ancient History, University of Auckland"
   title: "Friends, Olives, and Guilt in Ancient Rome"
   authors: "Jennifer Devereaux"
+  last: "Devereaux"
   
 - date: 2022-09-01
   place: "Laboratoire HISOMA (Histoire et Sources des Mondes Antiques), Intelligences et sens des spectateurs dans l'Antiquité"
   title: "Pain: Civic Identity and Vicious Spectatorship"
   authors: "Jennifer Devereaux"
+  last: "Devereaux"
  
 - date: 2022-09-01
   place: "Center for Advanced Studies, Ludwig-Maximilians-Universität München"
   title: "Friends, Olives, and Guilt in Ancient Rome"
   authors: "Jennifer Devereaux"
+  last: "Devereaux"
   
-- date: 2023-03-18
+- date: 2023-03-01
   place: "ASREC conference, Harvard University"
   title: "Cultural Change: Evidence from Three Centuries of U.S. Local Newspapers"
   authors: "Max Posch"
+  last: "Posch"
   file: "/assets/files/Posch_historical_psychology_2023_03_18_asrec.pdf"
   
-- date: 2023-02-23
+- date: 2023-02-01
   place: "SPSP Historical Psychology Preconference"
   title: "Cultural Change: Evidence from Three Centuries of U.S. Local Newspapers"
   authors: "Max Posch"
+  last: "Posch"
   file: "/assets/files/Posch_historical_psychology_2023_03_18_asrec.pdf"
   
-- date: 2023-03-24
+- date: 2023-03-01
   place: "Arthur Lewis Lab Conference, University of Manchester"
   title: "Innovation, the Church, and WEIRD Psychology"
   authors: "Max Posch"
+  last: "Posch"
   files: "/assets/files/2023-03-24-Posch-Innovation-Church-CEPR.pdf"
   
 - date: 2023-02-01
   place: "Stanford Economics history seminar"
   title: "Sociocultural diversity, surnames, and innovation"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-12-01
   place: "Religion, Culture and Economic Growth in Historical Perspective, Louvain University"
   title: "Sociocultural diversity, surnames, and innovation"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-11-01
   place: "Workshop on Culture, Institutions and Development, Lund University"
   title: "Sociocultural diversity, surnames, and innovation"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-09-01
   place: "PPE Seminar"
   title: "Kin-based institutions and economic development"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-09-01
   place: "States, Intermediate Institutions and Long-term Development, Utrecht University"
   title: "The Medieval Church and Innovation"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-05-01
   place: "Brown Conference on Comparative Development, Providence"
   title: "Kin-based institutions and economic development"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-03-01
   place: "University of British Columbia"
   title: "Sociocultural diversity, surnames, and innovation"
   authors: "Jonathan Schulz"
+  last: "Schulz"
   
 - date: 2022-03-01
   place: "University of Amsterdam"
   title: "The Church, kinship intensity and global psychological variation"
   authors: "Jonathan Schulz"
+  last: "Schulz"

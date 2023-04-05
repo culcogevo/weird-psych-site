@@ -14,9 +14,7 @@ layout: default
   {% assign sorted_presentations = site.data.upcoming_presentations | sort: 'date' %}
   {% for presentation in sorted_presentations %}
     <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
-    <div><em>{{ presentation.place }}</em></div>
-    <div>Title: {{ presentation.title }}</div>
-    <div>{{ presentation.authors }}</div>
+    <div>{{ presentation.authors }} <em>"{{ presentation.title }}"</em>, {{ presentation.place }}</div>
     {% if presentation.file != nil %}
       <a href="{{ presentation.file | relative_url }}">PDF</a>
     {% endif %}
@@ -25,16 +23,30 @@ layout: default
   
   <h3>Past</h3>
   
-{% assign sorted_presentations = site.data.presentations | sort: 'date' | reverse %}
-{% for presentation in sorted_presentations %}
-  <div><b>{{ presentation.date | date: '%B, %Y' }}</b></div>
-  <div><em>{{ presentation.place }}</em></div>
-  <div>Title: {{ presentation.title }}</div>
-  <div>{{ presentation.authors }}</div>
-  {% if presentation.file != nil %}
-    <a href="{{ presentation.file | relative_url }}">PDF</a>
-  {% endif %}
+{% assign list_dates = site.data.presentations | map: 'date' | sort | reverse | uniq %}
+{% for monthyear in list_dates %}
+  <div><b>{{ monthyear | date: '%B, %Y'}}</b></div>
+  {% assign list_presentations = site.data.presentations | date: '%B, %Y' | where: 'date', monthyear | sort: 'last' %}
+    {% for presentation in list_presentations %}
+      <div>{{ presentation.authors }} "<em>{{ presentation.title }}</em>", {{ presentation.place }}</div>
+      {% if presentation.file != nil %}
+        <a href="{{ presentation.file | relative_url }}">PDF</a>
+      {% endif %}
+    <p></p>
+    {% endfor %}
   <p></p>
 {% endfor %}
+
+<!-- {% assign sorted_presentations = site.data.presentations | sort: 'date' | reverse %} -->
+<!-- {% for presentation in sorted_presentations %} -->
+<!--   <div><b>{{ presentation.date | date: '%B, %Y' }}</b></div> -->
+<!--   <div><em>{{ presentation.place }}</em></div> -->
+<!--   <div>Title: {{ presentation.title }}</div> -->
+<!--   <div>{{ presentation.authors }}</div> -->
+<!--   {% if presentation.file != nil %} -->
+<!--     <a href="{{ presentation.file | relative_url }}">PDF</a> -->
+<!--   {% endif %} -->
+<!--   <p></p> -->
+<!-- {% endfor %} -->
   
 </div>
