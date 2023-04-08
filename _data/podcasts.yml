@@ -1,11 +1,14 @@
 - url: "https://podcasts.apple.com/au/podcast/joseph-henrich-you-are-weird-heres-the-scientist-who/id1548626341?i=1000568304677"
   image: "/assets/images/wild.webp"
   title: "You are weird! Here’s the scientist who can explain why | WILD with Sarah Wilson"
+  date: 2022-06-03
   
 - url: "https://civita.no/podcast/evolusjonsbiolog-joseph-henrich-om-det-vestlige-menneskets-psykologi/"
   image: "/assets/images/civita.jpg"
   title: "Joseph Henrich interview with Civita"
+  date: 2022-04-05
   
 - url: "https://www.rcf.fr/vie-spirituelle/perspectives?episode=89660"
   title: "Et le christianisme inventa l'individu... | PERSPECTIVES 1RCF Belgique"
   image: "/assets/images/michelangelo_creation_adam.jpg"
+  date: 2020-02-17

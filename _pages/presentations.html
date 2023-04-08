@@ -18,8 +18,8 @@ layout: default
     {% if presentation.file != nil %}
       <a href="{{ presentation.file | relative_url }}">Slides</a>
     {% endif %}
-  <p></p>
-{% endfor %}
+    <p></p>
+  {% endfor %}
   
   <h3>Past</h3>
   
@@ -31,6 +31,9 @@ layout: default
       <div>{{ presentation.authors }} "<em>{{ presentation.title }}</em>", {{ presentation.place }}</div>
       {% if presentation.file != nil %}
         <a href="{{ presentation.file | relative_url }}">Slides</a>
+      {% endif %}
+      {% if presentation.video != nil %}
+        <a href="{{ presentation.video | relative_url }}">Video</a>
       {% endif %}
     <p></p>
     {% endfor %}

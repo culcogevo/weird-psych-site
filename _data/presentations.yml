@@ -123,3 +123,41 @@
   authors: "Mohammad Atari, Ali Omrani"
   last: "Atari"
   file: "/assets/files/atari-spsp-presentation.pptx"
+
+- date: 2023-01-01
+  place: "University of Bordeaux"
+  title: "Innovation, Psychology and the Church"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+
+- date: 2023-02-01
+  place: "SPSP Historical Psychology Preconference"
+  title: "Historical Psychology: Promises and Prospects"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+
+- date: 2023-03-01
+  title: "Culture, Collective Minds and Innovation"
+  place: "Carl Friedrich von Siemens Foundation, Munich, Germany"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+
+- date: 2023-02-01
+  title: "Innovation, psychology and the Medieval Church"
+  place: "Katholieke Universiteit, Leuven, Belgium"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+  video: "https://www.youtube.com/watch?v=G_aoWr1pEqY&ab_channel=KULeuven"
+
+- date: 2023-01-01
+  title: "Are some societies WEIRDer than others?"
+  place: "Aha Festival, Lucerne, Switzerland"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+
+- date: 2022-11-01
+  title: "WEIRD Minds: How religion and family shapes psychology, democracy and innovation."
+  place: "Free Enterprise Forum Speaker Series, Baylor University"
+  authors: "Joseph Henrich"
+  last: "Henrich"
+

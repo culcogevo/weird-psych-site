@@ -1,13 +1,24 @@
+#must use "embed" version of url
+
 - url: "https://www.youtube.com/embed/YV1LRsI0ybA"
+  date: 2015-03-05
 
 - url: "https://www.youtube.com/embed/g_BX0OAOWUg"
+  date: 2022-03-21
 
 - url: "https://www.youtube.com/embed/vYzOr7l-U20"
+  date: 2022-11-25
 
 - url: "https://www.youtube.com/embed/mpp24NFnmfU"
+  date: 2022-09-19
 
 - url: "https://www.youtube.com/embed/7_AwPhDj_gk"
+  date: 2022-07-04
 
 - url: "https://www.youtube.com/embed/XOiG4A0Pkv4"
+  date: 2021-07-06
 
-#must use "embed" version of url
+- url: "https://www.youtube.com/embed/G_aoWr1pEqY"
+  date: 2023-02-02
+
+

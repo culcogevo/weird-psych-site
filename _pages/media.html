@@ -18,8 +18,8 @@ layout: default
 <div class="people-title" id="videos">Videos</div>
 
   <div class="grid-container">
-    
-    {% for media in site.data.videos %}
+  {% assign sorted_videos = site.data.videos | sort: 'date' | reverse %}
+    {% for media in sorted_videos %}
     <div class="grid-item-media">
        <iframe
         style="aspect-ratio: 3/2;"
@@ -40,8 +40,8 @@ layout: default
 <div class="people-title" id="articles">Articles</div>
 
   <div class="grid-container-media">
-    
-    {% for media in site.data.articles %}
+  {% assign sorted_articles = site.data.articles | sort: 'date' | reverse %}
+    {% for media in sorted_articles %}
     <div class="grid-item">
     <a href="{{ media.url | relative_url }}">
       <img src="{{ media.image | relative_url }}" width="300px" height="200px" stle="object-fit:contain">
@@ -59,8 +59,8 @@ layout: default
 <div class="people-title" id="podcasts">Podcasts</div>
 
   <div class="grid-container-media">
-    
-    {% for media in site.data.podcasts %}
+  {% assign sorted_podcasts = site.data.podcasts | sort: 'date' | reverse %}
+    {% for media in sorted_podcasts %}
     <div class="grid-item">
     <a href="{{ media.url | relative_url }}">
       <img src="{{ media.image | relative_url }}" width="300px" height="200px" stle="object-fit:contain">
