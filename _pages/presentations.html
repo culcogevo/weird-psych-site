@@ -10,16 +10,16 @@ layout: default
 
 <div style="margin:5vw;padding-left:3vw;padding-right:3vw">
   
-  <h3>Upcoming</h3>
-  {% assign sorted_presentations = site.data.upcoming_presentations | sort: 'date' %}
-  {% for presentation in sorted_presentations %}
-    <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div>
-    <div>{{ presentation.authors }} <em>"{{ presentation.title }}"</em>, {{ presentation.place }}</div>
-    {% if presentation.file != nil %}
-      <a href="{{ presentation.file | relative_url }}">Slides</a>
-    {% endif %}
-    <p></p>
-  {% endfor %}
+  <!-- <h3>Upcoming</h3> -->
+  <!-- {% assign sorted_presentations = site.data.upcoming_presentations | sort: 'date' %} -->
+  <!-- {% for presentation in sorted_presentations %} -->
+  <!--   <div><b>{{ presentation.date | date: '%B %d, %Y' }}</b></div> -->
+  <!--   <div>{{ presentation.authors }} <em>"{{ presentation.title }}"</em>, {{ presentation.place }}</div> -->
+  <!--   {% if presentation.file != nil %} -->
+  <!--     <a href="{{ presentation.file | relative_url }}">Slides</a> -->
+  <!--   {% endif %} -->
+  <!--   <p></p> -->
+  <!-- {% endfor %} -->
   
   <h3>Past</h3>
   
