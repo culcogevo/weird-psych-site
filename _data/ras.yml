@@ -1,19 +1,14 @@
-- name: Chelsea Baker
-  photo: "/assets/images/chelsea-baker.jpg"
-  profile: "/chelsea-baker/"
-  field: Economics and Computer Science
-
-- name: Claire Swadling
-  photo: "/assets/images/claire-swadling.png"
-  profile: "/claire-swadling/"
-  field: Physics, Economics, English
-
 - name: Mona J. Xue
   photo: "/assets/images/mona-xue.jpeg"
   profile: "/mona-xue/"
   field: Evolutionary Anthropology - Lab Manager
-  
-- name: Tom Zhang
-  photo: "/assets/images/tom-zhang.jpeg"
-  profile: "/tom-zhang/"
-  field: Data Science
+
+- name: "Joshi Saket"
+  photo: "/assets/images/saket-joshi.jpg"
+  profile: "/saket-joshi/"
+  field: "Data Science"
+
+- name: "Chuqing Zhao"
+  photo: "/assets/images/chuqing-zhao.png"
+  profile: "/chuqing-zhao/"
+  field: "Data Science, Social Sciences"
