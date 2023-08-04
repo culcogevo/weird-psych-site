@@ -7,10 +7,14 @@
   photo: "/assets/images/jennifer-devereaux.jpg"
   profile: "/jennifer-devereaux/"
   field: Classics
+
+- name: "Liwen Hou"
+  photo: "/assets/images/liwen-hou.jpeg"
+  profile: "/liwen-hou/"
+  field: "Computer Science"
   
 - name: Slava Savitskiy
   photo: "/assets/images/slava-savitskiy.png"
   profile: "/slava-savitskiy/"
   field: Economics
-  
 
