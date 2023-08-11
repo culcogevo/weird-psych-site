@@ -3,7 +3,7 @@ permalink: /maciek-chudek/
 layout: single
 author_profile: true
 author:
-  name: "Maciej Chudej"
+  name: "Maciej Chudek"
   avatar: "assets/images/maciek-chudek.png"
   bio: Postdoctoral Fellow
   location: Harvard University
