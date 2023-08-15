@@ -17,6 +17,11 @@
   photo: "/assets/images/liwen-hou.jpeg"
   profile: "/liwen-hou/"
   field: "Computer Science"
+
+- name: "Clelia LaMonica"
+  photo: "/assets/images/clelia-lamonica.jpeg"
+  profile: "/clelia-lamonica/"
+  field: "Linguistics"
   
 - name: Slava Savitskiy
   photo: "/assets/images/slava-savitskiy.png"
