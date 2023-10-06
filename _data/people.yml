@@ -27,7 +27,12 @@
   photo: "/assets/images/pramit-chaudhuri.jpg"
   profile: "/pramit-chaudhuri/"
   field: Classics and Comparative Literature
-  
+
+- name: Yuqi Chen
+  photo: "/assets/images/yuqi-chen.jpg"
+  profile: "/yuqi-chen/"
+  field: Quantitative History  
+
 - name: Helen Davis
   photo: "/assets/images/helen-davis.jpg"
   field: Evolutionary Anthropology
