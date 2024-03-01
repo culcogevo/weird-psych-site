@@ -5,8 +5,8 @@ author_profile: true
 author:
   name: "Dr. Mohammad Atari"
   avatar: "assets/images/mohammad-atari.jpg"
-  bio: Postdoctoral Fellow
-  location: Harvard University
+  bio: Assistent Professor
+  location: UMass Amherst
   links:
     - label: "Personal Website"
       url: https://mohammadatari.com/
