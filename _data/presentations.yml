@@ -1,4 +1,6 @@
 #make sure that all dates are on the 1st of the month
+#"last" is the last name of the person first on the list, this is used to sort presentations by alphanetical order
+# put <em></em> around the presenter to italicize it
 
 - date: 2022-05-01
   place: "University of Essex"
@@ -232,3 +234,63 @@
   last: "Atari"
   title: "Historical psychology, contemporary cultural issues, and the future of Homo sapiens"
   place: "Global Priorities Institute, Oxford University"
+
+- date: 2023-12-01
+  authors: "<em>Max Posch</em>, Jonathan Schulz, Joe Henrich"
+  last: "Posh"
+  title: "How Social Structure Drives Innovation: Surname Diversity and Patents in U.S. History"
+  place: "Charles University, Prague, Czech Republic"
+
+- date: 2024-02-01
+  authors: "<em>Max Posch</em>, Jonathan Schulz, Joe Henrich"
+  last: "Posh"
+  title: "How Social Structure Drives Innovation: Surname Diversity and Patents in U.S. History"
+  place: "Newcastle University, Newcasle, UK"
+
+- date: 2024-03-01
+  authors: "<em>Max Posch</em>, Jonathan Schulz, Joe Henrich"
+  last: "Posh"
+  title: "How Social Structure Drives Innovation: Surname Diversity and Patents in U.S. History"
+  place: "Copenhagen Business School, Copenhagen, Denmark"
+
+- date: 2024-03-01
+  authors: "<em>Max Posch</em>, Jonathan Schulz, Joe Henrich"
+  last: "Posh"
+  title: "How Social Structure Drives Innovation: Surname Diversity and Patents in U.S. History"
+  place: "University of Copenhagen, Copenhagen, Denmark"
+
+- date: 2024-03-01
+  authors: "<em>Slava Savitzkiy</em>,  Jonathan Schulz, Max Posch, Joe Henrich"
+  last: "Savitzkiy"
+  title: "Innovation, the Church, and WEIRD Psychology"
+  place: "ASREC, Orange, USA"
+
+- date: 2024-04-01
+  authors: "Slava Savitzkiy,  Jonathan Schulz, Max Posch, Joe Henrich"
+  last: "Savitzkiy"
+  title: "Innovation, the Church, and WEIRD Psychology"
+  place: "Brown Deep-Rooted Factors of Comparative Development Conference, Providence, USA"
+
+- date: 2024-04-01
+  authors: "Duman Bahrami-Rad, Jonathan Beauchamp, Jospeh Henrich, <em>Jonathan Schulz</em>"
+  last: "Bahrami-Rad"
+  title: "Kin-based Institutions and Economic Development"
+  place: "Institutions and prosperity: a global comparative perspective (conference), Utrecht, Netherlands"
+
+- date: 2024-05-01
+  authors: "Max Posch, <em>Jonathan Schulz</em>, Joe Henrich"
+  last: "Posh"
+  title: "How Social Structure Drives Innovation: Surname Diversity and Patents in U.S. History"
+  place: "New Economic School (NES) econ seminar, Moscow (virtual), Russia"
+
+- date: 2024-05-01
+  authors: "Duman Bahrami-Rad, <em>Jonathan Beauchamp</em>, Jospeh Henrich, Jonathan Schulz"
+  title: "Kin-based Institutions and Economic Development"
+  last: "Bahrami-Rad"
+  place: "Washington Area Development Economics Symposium (WADES), Washington DC, USA"
+
+- date: 2024-05-01
+  authors: "Slava Savitzkiy,  Jonathan Schulz, Max Posch, Joe Henrich"
+  last: "Savitzkiy"
+  title: "Innovation, the Church, and WEIRD Psychology"
+  place: "Lyon, France"
