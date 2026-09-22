@@ -9,4 +9,4 @@ author:
   location: Harvard University
   fields: Classics
 ---
-More information coming soon!
+More information coming
